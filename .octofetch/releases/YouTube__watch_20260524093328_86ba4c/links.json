@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2139",
+  "folder": "YouTube__watch_20260524093328_86ba4c",
+  "base_name": "oltSkVboO1g_oltSkVboO1g_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/samsungnamvar-art/Cloud-Downloads1/releases/tag/co-releases-v1-2139",
+  "files": [
+    {
+      "name": "oltSkVboO1g_oltSkVboO1g_1080p.mp4",
+      "url": "https://github.com/samsungnamvar-art/Cloud-Downloads1/releases/download/co-releases-v1-2139/oltSkVboO1g_oltSkVboO1g_1080p.mp4",
+      "api_url": "https://api.github.com/repos/samsungnamvar-art/Cloud-Downloads1/releases/assets/428471614",
+      "id": 428471614,
+      "size": 372942733,
+      "download_count": 0
+    }
+  ]
+}
